@@ -1,1 +1,1 @@
-# Azure-Functions-e-CosmosDB
+# Azure Functions e CosmosDB
